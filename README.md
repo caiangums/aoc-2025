@@ -1,11 +1,11 @@
-# 🎄Advent of Code - Template
+# 🎄Advent of Code 2025
 
 > Opinionated template for solving [Advent of Code](https://adventofcode.com/) with JS
 
 ## Usage
 
 Dependencies:
-- [NodeJS >= v16](https://nodejs.org/)
+- [NodeJS >= v22](https://nodejs.org/)
 - [yarn Classic](https://yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
 Tools:
@@ -14,7 +14,7 @@ Tools:
 * [ESLint](https://eslint.org/)
 * [Prettier](https://prettier.io/)
 
-Customize your repo based on this template changing this Readme and the `package.json`. After that you should install all the dependencies
+### Install dependencies
 
 ```sh
 yarn
