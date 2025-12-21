@@ -1,6 +1,6 @@
 # 🎄Advent of Code 2025
 
-> Opinionated template for solving [Advent of Code](https://adventofcode.com/) with JS
+> Solutions for [Advent of Code 2025](https://adventofcode.com/2025) with JS
 
 ## Usage
 
@@ -37,12 +37,12 @@ Run and see solutions
 yarn solve
 ```
 
-Run your tests (wth Jest)
+Run tests (wth Jest)
 ```sh
 yarn test
 ```
 
-Lint your code
+Lint code
 ```sh
 yarn lint
 ```
