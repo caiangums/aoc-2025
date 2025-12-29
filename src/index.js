@@ -6,6 +6,7 @@ import solve04 from './04'
 import solve05 from './05'
 import solve06 from './06'
 import solve07 from './07'
+import solve08 from './08'
 // #import
 
 export default function solveAll() {
@@ -17,5 +18,6 @@ export default function solveAll() {
   solve05()
   solve06()
   solve07()
+  solve08()
   // #run
 }
